@@ -1,14 +1,6 @@
-# Getting Started with The Truck Farm
+# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Clone Repository
-
-First we must clone the repository using the following command:
-
-### `git clone https://github.com/intelguasoft/the-truck-farm.git`
-
-> After having cloned the repository, we must continue with the following steps to lift our application and to be able to see the result in our default browser.
 
 ## Available Scripts
 
